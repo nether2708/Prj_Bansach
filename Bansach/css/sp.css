@@ -1,0 +1,124 @@
+body
+{
+    margin: 0px;
+    padding: 20px;
+    background: url(https://demoda.vn/wp-content/uploads/2022/02/background-xanh-duong-dam-dep-nhat.jpg)
+}
+form.main-box {
+    display: grid;
+}
+ul {
+    margin-top: 50px;
+}
+a.main {
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+}
+.search-btn
+{
+    height: 22px;
+    width: 40px;
+}
+.main-title {
+    place-self: center;
+}
+button.btn-sua
+{
+    width: 177px;
+}
+.icon-box
+{
+    height: 22px;
+    width: 40px;
+}
+
+.search-box {
+    place-self: center;
+}
+
+.main-content {
+    place-self: center;
+}
+.main-title {
+    font-size: 50px;
+    color: white;
+}
+
+.table-hd {
+    font-size: 30px;
+    color: white;
+    
+}
+input.search-input {
+    width: 353px;
+}
+button.table-btn
+{
+    width: 393px;
+}
+input.table-input-id {
+    margin-left: 18px;
+    width: 500px;
+}
+input.table-input-tsp
+{
+    width: 500px;
+}
+input.table-input-gia {
+    margin-left: 48px;
+    width: 500px;
+}
+
+input.table-input-size {
+    margin-left: 123px;
+    width: 500px;
+}
+
+input.table-input-sl {
+    margin-left: 55px;
+    width: 500px;
+}
+.table-i {
+    color: wheat;
+}
+
+img.table-img {
+    width: 150px;
+    
+    height: 150px;
+}
+.bot
+{
+    display: grid;
+    border: 2px solid white;
+}
+.mini
+{
+    display: flex;
+    width: 1200px;
+    margin-bottom: 50px;
+}
+.table-i {
+    margin-left: 100px;
+    color: white;
+    font-size: 30px;
+}
+button.table-add {
+    margin-left: 69px;
+    width: 500px;
+}
+
+.mini {
+    margin-top: 45px;
+}
+.table-them
+{
+    display: flex;
+}
+button.table-btn {
+    width: 500px;
+    margin-left: -34px;
+    margin-top: 7px;
+}
+
